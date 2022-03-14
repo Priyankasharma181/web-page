@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(107, 91, 177);
+}
+
+h1 {
+    text-align: center;
+    color: cornsilk;
+    font-size: 400%;
+}
+
+h2 {
+    text-align: center;
+    color: cornsilk;
+
+
+}
+
+p1 {
+    text-align: center;
+    color: rgb(205, 215, 226);
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    color: cornsilk;
+    font-size: 150%;
+}
+
+.column {
+    margin-left: 10ch;
+    float: left;
+    width: 25.33%;
+    height: 300px;
+    /* border: 2px solid black; */
+
+}
+
+/* Clear floats after the columns */
+.row {
+    height: 320px;
+    width: 1200px;
+    display: table;
+    margin-left: 9.4cm;
+    margin-top: 2cm;
+    /* background-color: coral; */
+    margin-bottom: 30px;
+    /* border: 5px outset red; */
+
+}
+
+.A {
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(107, 91, 177);
+    border-color: white;
+    border-width: 4px;
+    color: white;
+    font-size: 20px;
+    margin-left: 900px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+.topnav {
+    background-color: rgb(242, 244, 247);
+    width: 1900px;
+    height: 80px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.s{
+    margin-left: 40px;
+
+}
